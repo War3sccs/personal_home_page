@@ -4,8 +4,12 @@
 index.html  
 
 ##**项目介绍：**
-##*2021-TongYuWasteWaterTreatmentPlant-PAC *
+##*2021-TongYuWasteWaterTreatmentPlant-PAC*
 2021-铜盂第二污水处理厂-混凝剂投加
+项目只 包含 项目照片、效果图。
+
+##*2021-HuizhouShuikouyuan-PAC*
+2021-飞源-惠州水口思源自来水公司-PAC投加装置
 项目只 包含 项目照片、效果图。
 
 ###*2020-Ningxia-Shanmen-PAC.html*
@@ -21,3 +25,4 @@ index.html
 project_pattern  项目模版
 ###*2020-Ningxia-Hongsibao-KMnO4*
 ***当前项目模版***
+
