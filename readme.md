@@ -4,6 +4,12 @@
 index.html  
 
 ##**项目介绍：**
+
+##*2021-Henan-school-pneumaticPLC*
+branch solidwork_output_module
+2021-河南技工学校-气动PLC实训平台
+solidwork构建模型
+
 ##*2021-Nansha-Xiaohuisland-2nd*
 ***当前main head***  
 2021-中信诺卫-南沙小虎岛-膜芬顿2期-加药装置
@@ -53,3 +59,6 @@ M421
 
 ###multiple_equipment_one_project  单项目多装置
 *2021-Nansha-Xiaohuisland-2nd*
+
+###solidwork_output_module  solidwork直接导出html模型
+*2021-Henan-school-pneumaticPLC*
