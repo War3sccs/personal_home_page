@@ -4,8 +4,13 @@
 index.html  
 
 ##**项目介绍：**
-###2022-Hebei-lanrundi-NaClO-1pc-DM6D
+###2022-Hebei-lanrundi-NaClO-3pcs-M521
 ***当前main head***  
+2022-河北兰润滴-次氯酸钠加药装置
+项目只 包含 项目照片、效果图。
+M521计量泵
+
+###2022-Hebei-lanrundi-NaClO-1pc-DM6D
 2022-河北兰润滴-亚硝基硫酸加药装置
 项目只 包含 项目照片、效果图。
 DM6D计量泵  
