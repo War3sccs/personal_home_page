@@ -4,6 +4,11 @@
 index.html  
 
 ##**项目介绍：**
+###2022-Hebei-lanrundi-NaClO-1pc-DM6D
+***当前main head***  
+2022-河北兰润滴-亚硝基硫酸加药装置
+项目只 包含 项目照片、效果图。
+DM6D计量泵  
 
 ##*2021-Henan-school-pneumaticPLC*
 branch solidwork_output_module
@@ -11,7 +16,7 @@ branch solidwork_output_module
 solidwork构建模型
 
 ##*2021-Nansha-Xiaohuisland-2nd*
-***当前main head***  
+multiple_equipment_one_project  单项目多装置
 2021-中信诺卫-南沙小虎岛-膜芬顿2期-加药装置
 1.硫酸亚铁装置
 OBL M660 PP过液端 变频电机
